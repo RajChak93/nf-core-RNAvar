@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,bam,bai,strandedness
+CONTROL_SRX10869648,/work/unmc_gudalab/rajashreec/files/Thesis_Fastq_files/SRX10869648_T1_1.fastq.gz,/work/unmc_gudalab/rajashreec/files/Thesis_Fastq_files/SRX10869648_T1_2.fastq.gz,/work/unmc_gudalab/rajashreec/files/Dlpfc_OUD_secondpass/all_files/bam_files/SRX10869648Aligned.sortedByCoord.out.bam,/work/unmc_gudalab/rajashreec/files/Dlpfc_OUD_secondpass/all_files/bam_files/SRX10869648Aligned.sortedByCoord.out.bam.bai,unstranded
